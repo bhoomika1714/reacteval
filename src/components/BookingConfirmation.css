@@ -1,0 +1,27 @@
+/* BookingConfirmation.css */
+.confirmation-page {
+  padding: 30px;
+  max-width: 600px;
+  margin: 50px auto;
+  background-color: #ffffff;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  border: 1px solid #D0D0D0;
+}
+
+h2 {
+  text-align: center;
+  color: #4E89A3;
+  font-family: 'Arial', sans-serif;
+  font-weight: 600;
+}
+
+p {
+  font-size: 16px;
+  margin-bottom: 12px;
+  color: #555;
+}
+
+strong {
+  color: #4E89A3;
+}
